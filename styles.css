@@ -1,0 +1,39 @@
+.grid{
+    width: 300px;
+    height: 300px;
+    border: solid black 1px;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url('https://www.aljazeera.com/wp-content/uploads/2021/11/AP21308570564472.jpg?resize=770%2C513');
+    background-size: 100%;
+    
+}
+body{
+    background: rgb(22, 37, 37);
+    font-family: monospace;
+    color:greenyellow;
+}
+.grid div {
+    width: 20px;
+    height: 20px;
+}
+
+.invader{
+    background-image: url('https://media4.giphy.com/media/2QlT8PiptzdikMDwit/200w.gif');
+    background-size: 100%;
+}
+
+.ricky{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/9b/Ricky_Martin_2013.jpg');
+    background-size: 100%;
+    height: 20px;
+}
+
+.laser{
+    background-color: orange;
+}
+
+.boom{
+    background-image: url('https://i.pinimg.com/originals/9d/58/37/9d5837c6f0cb8b18be6ddd1e2742472a.gif');
+    background-size: 100%;
+}
